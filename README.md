@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://arham.id">arham.id</a>
+  <a href="https://arham.id" target="_blank">arham.id</a>
 </h1>
 
 <p style="text-align:justify">
@@ -12,7 +12,6 @@ Since beginning my journey as a freelance programmer over years ago, I've done r
 </p>
 
 <p align="center">
-  <!-- <a href="https://arham.id"><img src="https://img.shields.io/badge/website-%FFA5DD89.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:arham.code@gmail.com?subject=%20Arham%20Anwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.https://www.facebook.com/arhamcode"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/arham.code/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
